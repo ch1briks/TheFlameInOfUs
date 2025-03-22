@@ -1,2 +1,2 @@
-# TheFlameInOfUs
-The github repository where I will send the my programs on python and C++
+# PcHelperBotForTG
+The github repository where I will send program for control your PC with telegram bot
